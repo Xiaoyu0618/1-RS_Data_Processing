@@ -1,4 +1,4 @@
-# MATLAB Scripts for Raster Trend Analysis
+# MATLAB Scripts for Raster Analysis
 
 This folder contains MATLAB implementations of core time-series trend analysis workflows in environmental remote sensing, including the Mann–Kendall test, Sen’s slope estimation, and NetCDF-to-GeoTIFF conversion.
 
@@ -15,4 +15,4 @@ This folder contains MATLAB implementations of core time-series trend analysis w
 - Ecosystem monitoring  
 
 ## Author
-Xiaoyu Li · 2025
+Xiaoyu Li, 2025
