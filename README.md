@@ -9,7 +9,7 @@ A collection of Python and MATLAB tools for raster-based environmental data proc
 Xiaoyu Li
 2025
 
-## 📬 Contact
+## Contact
 If you are interested in collaboration or research discussion:  
-📧 *Email: xiaoyu6936@gmail.com*  
-🌐 *Personal Website: https://xiaoyu0618.github.io/*
+*Email: xiaoyu6936@gmail.com*  
+*Personal Website: https://xiaoyu0618.github.io/*
