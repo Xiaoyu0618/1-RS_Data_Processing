@@ -10,5 +10,5 @@ Xiaoyu Li, 2025
 
 ## Contact
 If you are interested in collaboration or research discussion:  
-*Email: xiaoyu6936@gmail.com*  
-*Personal Website: https://xiaoyu0618.github.io/*
+Email: *xiaoyu6936@gmail.com*  
+Personal Website: *https://xiaoyu0618.github.io/*
