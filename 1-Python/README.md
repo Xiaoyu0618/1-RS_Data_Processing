@@ -1,7 +1,9 @@
 # Python Scripts for Raster Data Processing
+
 This folder contains a set of tools designed for batch processing of raster time-series in environmental and remote sensing studies.
 
 ## Script Overview
+
 | File | Function |
 |------|----------|
 | **1-slope_analysis.py** | Calculate pixel-wise linear regression slope for long-term raster time series |
